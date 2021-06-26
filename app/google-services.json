@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "695941317929",
+    "project_id": "fir-chatagain",
+    "storage_bucket": "fir-chatagain.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695941317929:android:41c92eb453898bf208e338",
+        "android_client_info": {
+          "package_name": "com.example.firebasechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695941317929-u2sc7594pkb210aukh25qjbmqr713pdp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebasechat",
+            "certificate_hash": "5e51147750cee46af4abc1ce94f9c19edcb79c6a"
+          }
+        },
+        {
+          "client_id": "695941317929-9b3os8nqotv73hb8aaaroskgndev6vib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD-2g4frlulSQ8-7ziZXbbGoQMLwX9o8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "695941317929-9b3os8nqotv73hb8aaaroskgndev6vib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
